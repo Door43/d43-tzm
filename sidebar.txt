@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tzm:home|Door43 (tzm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tzm|d43-tzm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tzm/archive/master.zip|d43-tzm.zip]]
+
+**Recent Changes**
+{{changes>ns = tzm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tzm|Ethnologue data]]
+
